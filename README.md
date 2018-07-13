@@ -1,3 +1,4 @@
 # gitskills
 creating a new branch
-master's update
+Creating a new branch for feature1 and master's update
+
