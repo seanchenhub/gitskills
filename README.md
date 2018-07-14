@@ -8,4 +8,5 @@ another for dev
 update half, now complete.
 
 branch1
-branch2 b2
+branch2
+b1
