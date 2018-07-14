@@ -7,5 +7,5 @@ another for dev
 
 update half, now complete.
 
-branch1 b1
-branch2
+branch1
+branch2 b2
