@@ -16,4 +16,8 @@ master adding.
 conflict example
 
 dev update. local
+
 sc update dev.
+
+snc dev update.
+
