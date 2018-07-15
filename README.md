@@ -10,3 +10,4 @@ update half, now complete.
 branch1 b2
 branch2
 b1
+sc update2.
