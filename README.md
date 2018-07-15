@@ -12,3 +12,5 @@ branch2
 b1
 
 master adding.
+conflict example
+
