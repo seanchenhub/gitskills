@@ -11,4 +11,4 @@ branch1 b2
 branch2
 b1
 
-dev update.
+dev update. local
