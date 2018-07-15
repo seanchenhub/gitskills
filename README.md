@@ -11,6 +11,9 @@ branch1 b2
 branch2
 b1
 
+
 master adding.
 conflict example
+
+dev update. local
 
